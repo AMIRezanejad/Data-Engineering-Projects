@@ -2,9 +2,9 @@
 
 i have create all my mini project that i am allow to show others .
 
-1.its containing Web scrapping 
+- its containing Web scrapping 
 
-2.Automizing the process of extracting data and entering data as like as bot with use of Selenium Liberary.
+- Automizing the process of extracting data and entering data as like as bot with use of Selenium Liberary.
 
 
 till now. 
