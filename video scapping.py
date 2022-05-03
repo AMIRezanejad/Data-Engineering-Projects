@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-
+# in this Function the video with mp4 extention will be downloaded
 def download(url):
     response=requests.get(url)
     soup=BeautifulSoup(response.text,'html.parser')
